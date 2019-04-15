@@ -1,4 +1,4 @@
-# HogwartsRoster
+# HogwartsDirectory
 IST 261 Final Project
 Final Project for IST 261 in Penn State - University Park
 This project allows user to interact with a Java GUI to add, edit, and delete users.
